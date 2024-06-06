@@ -1,4 +1,4 @@
-weather,temp,humidity,wind,play_tennis
-sunny,hot,high,weak,no
-sunny,hot,high,strong,no
-cloudy,hot,high,weak,yes
+weather,temp,humidity,wind
+sunny,hot,high,weak
+sunny,hot,high,strong
+cloudy,hot,high,weak
